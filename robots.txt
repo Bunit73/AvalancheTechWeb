@@ -1,3 +1,5 @@
 ﻿# robots.txt for https://avalanche-tech.dev
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://avalanche-tech.dev/sitemap.xml
